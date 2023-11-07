@@ -1,4 +1,4 @@
-# Untitled
+# Furry Paws
 
 # Full-Stack Pet Services and Adoption App
 
